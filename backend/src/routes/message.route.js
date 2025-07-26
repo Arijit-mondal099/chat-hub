@@ -6,7 +6,7 @@ import { upload } from "../middlewares/multer.middleware.js";
 const router = express.Router();
 
 router.route("/users").get(protectRoute, getUsers);
+router.route("/send/:id").post(protectRoute, upload.single("image"), sendMessage);
 router.route("/:id").get(protectRoute, getMessages);
-router.route("/send/:id").post(protectRoute, upload.single("image"), sendMessage)
 
 export default router;
