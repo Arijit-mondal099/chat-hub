@@ -6,17 +6,17 @@
 
 ## 🌐 Live Demo
 
-👉 [Check out the live app here](https://your-live-demo-link.com)
+👉 [Check out the live app here](https://chat-hub-vm2i.onrender.com)
 
 ---
 
 ## 🖼️ Screenshots
 
 **Home Page**  
-![Home](./frontend/public/screenshots/Home.png)
+![Home](https://res.cloudinary.com/dlshacwo5/image/upload/v1753547580/b6hcvarf0lij6odmebdt.png)
 
 **Profile Page**  
-![Home](./frontend/public/screenshots/profile.png)
+![Home](https://res.cloudinary.com/dlshacwo5/image/upload/v1753547659/dzyxkfbjozeui0sr4zzt.png)
 
 ---
 
@@ -84,7 +84,7 @@
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ChatHub.git
+git clone https://github.com/Arijit-mondal099/chat-hub.git
 cd ChatHub
 ```
 
@@ -137,4 +137,4 @@ Contributions are welcome!
 
 ## 📬 Contact
 
-Created by [Arijit Mondal](https://github.com/your-username) — feel free to reach out!
+Created by [Arijit Mondal](https://github.com/Arijit-mondal099) — feel free to reach out!
